@@ -1,4 +1,3 @@
-resource "aws_instance" "sample" {
-  ami = ""
-  instance_type = ""
+output "some" {
+  value = "terraform master"
 }
