@@ -1,3 +1,3 @@
 output "some" {
-  value = "terraform master"
+  value = "terraform master from autopush"
 }
